@@ -3,7 +3,7 @@
 I am [Malaka](https://malakadesilva.github.io/), an Android developer by day and a Full Stack Developer by night.
 
 - 🔭 I’m currently working on Native Android/Flutter/NextJS projects
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning NextJS and Rust
 - 📫 How to reach me: malakasilva43@gmail.com
 <br /><br />
 <img align="left" alt="Python" height="26px" src="https://img.icons8.com/color/48/000000/python.png" />
