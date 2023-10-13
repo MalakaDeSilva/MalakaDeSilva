@@ -10,6 +10,8 @@ I am [Malaka](https://malakadesilva.github.io/), an Android developer by day and
 <img align="left" alt="HTML" height="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="CSS" height="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="JS" height="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" alt="Android" height="26px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" />
+<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
